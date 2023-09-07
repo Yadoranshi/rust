@@ -1,0 +1,1 @@
+/Users/uneon/oter/rust/communicator/target/debug/communicator: /Users/uneon/oter/rust/communicator/src/client.rs /Users/uneon/oter/rust/communicator/src/lib.rs /Users/uneon/oter/rust/communicator/src/main.rs /Users/uneon/oter/rust/communicator/src/network/mod.rs
